@@ -7,7 +7,7 @@ package arrayMultidimensi;
 
 /**
  *
- * @author hp
+ * @author Agnes Juliana
  */
 public class Multidimensi1 {
 
