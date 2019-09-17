@@ -38,7 +38,7 @@ public class Multidimensi1 {
                 System.out.print(nilai[i][j]+"\t");
 
             }
-            System.out.print(ratarataMP[i]+"\n");
+            System.out.print(ratarataMP[i]+"\n");//sss
         }
         
     }
